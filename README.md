@@ -11,25 +11,37 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
 
 ### Prerequisites
 * [Make sure you have the latest version of Power BI Desktop](https://aka.ms/pbiSingleInstaller)
-* If you are using [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
-* [Download the template file](https://github.com/nbrown02/FlowViz-Jira/raw/main/FlowViz%20(Jira).pbit)
+* Download the appropriate template file:
+  - [Jira Version]([https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Project).pbit](https://github.com/nbrown02/Flow-Metrics-Epics-Features/raw/main/Flow%20Metrics%20for%20Epics%20and%20Features%20(Jira).pbit))
+  - [Azure DevOps Version]([https://github.com/nbrown02/FlowViz/raw/main/FlowViz%20(Organization).pbit](https://github.com/nbrown02/Flow-Metrics-Epics-Features/raw/main/Flow%20Metrics%20for%20Epics%20and%20Features%20(Azure%20DevOps).pbit))
+* If you are setting this up for Jira then [Follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
+* If you are setting this up for Azure DevOps then [Follow these steps]([https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows#create-a-pat)) to setup a Personal Access Token (PAT) and note it down (e.g. copy/paste into Notepad)
 * Then you're good to get started!
 
 ### Jira Connectivity
-* Open the .pbit file in Power BI Desktop
-* Add your Jira URL 
-* Add your Jira Project Key(s)
+* Open the relevant .pbit file in Power BI Desktop
+* For Jira:
+  - Add your Jira URL
+  - Add your Jira Project Key(s)
+* For Azure DevOps:
+  - Add your Jira URL
+  - Add your Jira Project Key(s)
 
-Don't confuse the project name with the project key, a common mistake! Your project key will be in the URL when viewing an item.
-
-* It should then look something like this:
+* It should then look something like this (for Jira):
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login1.PNG)
 
-* For multiple projects, it should look like:
+* Or this (for Azure DevOps):
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Multiple.jpg)
 
 * Hit 'Load' 
-* You will be prompted for a login, choose Basic and enter:
+* You will be prompted for a login
+* For Jira, choose Basic and enter:
+  - Your email associated with your Jira account for your username
+  - Your API token you created in the Prerequisities
+
+![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login2.png)
+
+* For Azure DevOps, choose Basic and enter:
   - Your email associated with your Jira account for your username
   - Your API token you created in the Prerequisities
 
@@ -37,26 +49,6 @@ Don't confuse the project name with the project key, a common mistake! Your proj
 
 * Then hit 'Connect' and wait for the data and charts to load!
 
-### Azure DevOps Connectivity
-* Open the .pbit file in Power BI Desktop
-* Add your Jira URL 
-* Add your Jira Project Key(s)
+### Screenshots and questions to ask using these charts
 
-Don't confuse the project name with the project key, a common mistake! Your project key will be in the URL when viewing an item.
 
-* It should then look something like this:
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login1.PNG)
-
-* For multiple projects, it should look like:
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Multiple.jpg)
-
-* Hit 'Load' 
-* You will be prompted for a login, choose Basic and enter:
-  - Your email associated with your Jira account for your username
-  - Your API token you created in the Prerequisities
-
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login2.png)
-
-* Then hit 'Connect' and wait for the data and charts to load!
-
-### Screenshots and questions to ask
