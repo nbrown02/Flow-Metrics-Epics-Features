@@ -28,10 +28,10 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
   - Add your Jira Project Key(s)
 
 * It should then look something like this (for Jira):
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login1.PNG)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/1%20-%20Jira.jpg)
 
 * Or this (for Azure DevOps):
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Multiple.jpg)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/1%20-%20ADO.jpg)
 
 * Hit 'Load' 
 * You will be prompted for a login
