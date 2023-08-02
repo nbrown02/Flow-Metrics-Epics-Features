@@ -49,14 +49,15 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
 * Then hit 'Connect' and wait for the data and charts to load!
 
 ### Screenshots and questions to ask using these charts
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/Flow1.jpg)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/Flow1.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/TPGuide.jpg)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/TPGuide.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/CTGuide.jpg)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/CTGuide.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/WIPGuide.jpg)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/WIPGuide.png)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/WIAgeGuide.jpg)
+![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/WIAgeGuide.png)
 
-
+### Feedback
+This template is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) use [Issues](https://github.com/nbrown02/Flow-Metrics-Epics-Features/issues) for any bugs and [Discussion](https://github.com/nbrown02/Flow-Metrics-Epics-Features/discussions) for any question, ideas and/or feature requests
