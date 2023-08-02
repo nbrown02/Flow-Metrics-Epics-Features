@@ -24,8 +24,9 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
   - Add your Jira URL
   - Add your Jira Project Key(s)
 * For Azure DevOps:
-  - Add your Jira URL
-  - Add your Jira Project Key(s)
+  - Select http/https (only choose http if your Azure DevOps Server is HTTP)
+  - Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
+  - Add your organization / project name / team name
 
 * It should then look something like this (for Jira):
 ![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/1%20-%20Jira.jpg)
