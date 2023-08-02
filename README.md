@@ -1,7 +1,7 @@
 # Flow Metrics for Epics & Features (Azure DevOps & Jira)
 
 ### What is this report? 
-This report will visualize the four flow metrics of Throughput, Cycle Time, Work In Progress and Work Item Age but for your Feature or Epic work item types
+This report will visualize the four flow metrics of Throughput, Cycle Time, Work In Progress and Work Item Age for Feature or Epic work item types
 
 ### Why shuld you use it? 
 Managing the flow of work is not something limited to just teams. Flow should be proactively managed on a regular cadence at all levels (Story/Feature/Epic) of work.
