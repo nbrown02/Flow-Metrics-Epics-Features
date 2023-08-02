@@ -60,4 +60,4 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
 ![alt text](https://raw.githubusercontent.com/nbrown02/Flow-Metrics-Epics-Features/main/Screenshots/WIAgeGuide.png)
 
 ### Feedback
-This template is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) use [Issues](https://github.com/nbrown02/Flow-Metrics-Epics-Features/issues) for any bugs and [Discussion](https://github.com/nbrown02/Flow-Metrics-Epics-Features/discussions) for any question, ideas and/or feature requests.
+This template is built and maintained by [Nicolas Brown](https://www.nicolasbrown.co.uk/) use [the issues section](https://github.com/nbrown02/Flow-Metrics-Epics-Features/issues) for any bugs you find and [the discussion section](https://github.com/nbrown02/Flow-Metrics-Epics-Features/discussions) for any question, ideas and/or feature requests.
