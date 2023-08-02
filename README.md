@@ -3,10 +3,10 @@
 ### What is this report? 
 This report will visualize the four flow metrics of Throughput, Cycle Time, Work In Progress and Work Item Age but for your Feature or Epic work item types
 
-### Why would you use it? 
+### Why shuld you use it? 
 Managing the flow of work is not something limited to just teams. Flow should be proactively managed on a regular cadence at all levels (Story/Feature/Epic) of work.
 
-### When would you use it?
+### When should you use it?
 Use this at least weekly to understand the ‘flow’ of work items at Epic or Feature level. Use it to look at what has recently finished, how long those items took, if there is anything to learn from those and if we are seeing the projected value from them. Similarly use it to look at what is in flight right now - if you are limiting work in progress, what items have been in progress the longest and what should you be focusing your attention on finishing.
 
 ### Prerequisites
