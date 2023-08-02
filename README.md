@@ -15,10 +15,10 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
   - [Jira version](https://github.com/nbrown02/Flow-Metrics-Epics-Features/raw/main/Flow%20Metrics%20for%20Epics%20and%20Features%20(Jira).pbit)
   - [Azure DevOps version](https://github.com/nbrown02/Flow-Metrics-Epics-Features/raw/main/Flow%20Metrics%20for%20Epics%20and%20Features%20(Azure%20DevOps).pbit)
 * If you are setting this up for Jira then [follow these steps](https://support.atlassian.com/atlassian-account/docs/manage-api-tokens-for-your-atlassian-account/) to setup a Jira API token and note it down (e.g. copy/paste into Notepad)
-* If you are setting this up for Azure DevOps then [follow these steps](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows#create-a-pat) to setup a Personal Access Token (PAT) and note it down (e.g. copy/paste into Notepad)
+* If you are setting this up for Azure DevOps then [follow these steps](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows#create-a-pat) to setup a Personal Access Token (PAT) with full access and note it down (e.g. copy/paste into Notepad)
 * Then you're good to get started!
 
-### Jira Connectivity
+### Connectivity & Data Load
 * Open the relevant .pbit file in Power BI Desktop
 * For Jira:
   - Add your Jira URL
@@ -42,10 +42,9 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
 ![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login2.png)
 
 * For Azure DevOps, choose Basic and enter:
-  - Your email associated with your Jira account for your username
-  - Your API token you created in the Prerequisities
+  - Your Personal Access Token (PAT) to login, entering it in the password field (user can be left as blank - make sure it has 'Read' access to Analytics)
 
-![alt text](https://raw.githubusercontent.com/nbrown02/FlowViz-Jira/main/Screenshots/Login2.png)
+![alt text](https://docs.microsoft.com/en-us/azure/devops/report/powerbi/media/authentication-7.png?view=azure-devops)
 
 * Then hit 'Connect' and wait for the data and charts to load!
 
