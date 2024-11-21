@@ -26,7 +26,7 @@ Use this at least weekly to understand the ‘flow’ of work items at Epic or F
 * For Azure DevOps:
   - Select http/https (only choose http if your Azure DevOps Server is HTTP)
   - Add the Analytics / Azure DevOps Server URL - for Azure DevOps services enter 'analytics.dev.azure.com' / for Azure DevOps Server enter your server details
-  - Add your organization / project name / team name
+  - Add your organization / project name / team name (please ensure this team name matches EXACTLY the team name in the ADO URL, replacing any spaces with %20)
   - Select 'Epic' or 'Feature' depending on what work item type you want to do this for
 
 * It should then look something like this (for Jira):
